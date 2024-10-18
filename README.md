@@ -28,4 +28,4 @@ This project implements a simple real-time character counter for a text area. Th
 - Implement a character counter for multiple text areas.
 - Provide feedback when the user is approaching the character limit, e.g., change the color of the counter text as they near the limit.
 
-Demo Link - 
+Demo Link - https://sanjailaksh19.github.io/Character-Counter/
